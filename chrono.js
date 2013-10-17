@@ -2,7 +2,7 @@
  * Domain Public by Francesc Mallafre Lopez (2013) 
  * https://github.com/weisk/
  */
-var Crono = function(){
+var Chrono = function(){
 
 	var defaultSettings = { 
 		timerElement:null,
